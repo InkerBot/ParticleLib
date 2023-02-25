@@ -17,7 +17,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.15.2-R0.1-SNAPSHOT")
 }
 
-group = "top.zoyn.particlelib"
+group = "bot.inker.particlelib"
 version = "1.5.1-SNAPSHOT"
 description = "ParticleLib"
 
