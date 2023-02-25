@@ -18,7 +18,7 @@ dependencies {
 }
 
 group = "bot.inker.particlelib"
-version = "1.5.1-SNAPSHOT"
+version = "1.5.1"
 description = "ParticleLib"
 
 java{
